@@ -16,6 +16,8 @@ Pipelines and model selection tools.
 
 APIs of scikit-learn objects
 ============================
+============================
+
 
 To have a uniform API, we try to have a common basic API for all the
 objects. In addition, to avoid the proliferation of framework code, we
